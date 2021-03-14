@@ -69,3 +69,6 @@ The method you choose depends upon your needs, but if you're unsure, we recommen
 ### Further reading
 
 - [About READMEs](/github/creating-cloning-and-archiving-repositories/about-readmes)
+
+
+### Thankyou!
